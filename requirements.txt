@@ -12,4 +12,3 @@ newspaper3k
 beautifulsoup4
 pdfplumber
 faiss-cpu
-PyPDF2
