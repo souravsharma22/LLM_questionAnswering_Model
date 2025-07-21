@@ -1,0 +1,15 @@
+torch
+transformers
+sentence-transformers
+langchain
+langchain_community
+langchain_huggingface
+langchain_experimental
+langchain_chroma
+langchainhub
+streamlit
+newspaper3k
+beautifulsoup4
+pdfplumber
+faiss-cpu
+PyPDF2
